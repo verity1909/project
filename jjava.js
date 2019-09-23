@@ -7,12 +7,12 @@ let persone = {
     isMarried: false
 };
 //console.log(persone["age"]);
-let arr = ['plum.jpg', 'orange.jpg', 'melon.jpg'] ;
+let arr = ['plum.jpg', 'orange.jpg', 'watermelon.jpg'] ;
 //console.log(arr[1]);
 
-let answer = prompt("Are you here bitch?", "Yep");
+let answer = prompt("Are you here bit ?", "Yep","merci");
 
-//console.log(typeof(undefined));
+console.log(typeof(undefined));
 let min = 5,
 maf = 3;
 min++;
